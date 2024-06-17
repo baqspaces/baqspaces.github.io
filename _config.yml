@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://photos.app.goo.gl/oLhHgtET9AquE2dF9"
+  avatar           : "profile.jpg"
   name             : "Yini O"
   pronouns         : "she/her"  
   bio              : "Analytics trained, but dabbles in a little of everything. Reach out to me via LinkedIn"
