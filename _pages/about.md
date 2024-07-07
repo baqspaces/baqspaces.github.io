@@ -32,7 +32,7 @@ Welcome!
 🏆 Awards 
 ======
 * Grab 4H Award (Nov 2020, Jun 2021, Jul 2021, Oct 2021, Nov 2021)
-* Lazadian of the Month (Apr 2017, Jul 2017)
+* Lazadian of the Month (Apr 2018, Jul 2018)
 
 📝 Publications 
 ======
