@@ -19,7 +19,8 @@ Welcome!
 
 👩‍💻 Work experience 
 ======
-* Grab - Analytics Manager (2019 - Present)
+* Wise - Analytics Lead (2025 - Present)
+* Grab - Analytics Manager (2019 - 2025)
 * Lazada - Product Manager / Data Analyst (2017 - 2019)
 * Tan Tock Seng Hospital - Senior Executive (2015 - 2017)
 * Singapore General Hospital - Management Trainee (2013 - 2015)
